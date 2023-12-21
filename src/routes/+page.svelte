@@ -3,7 +3,7 @@
     <h1>Christmas Sing-Along Songbook</h1>
     <h2>by Lucas Furseth</h2>
 
-    <h2>Click Anywhere to Download</h2>
+    <h2>Click On Santa to Download</h2>
     <!-- <embed src="book.pdf"/> -->
 
 </div>
