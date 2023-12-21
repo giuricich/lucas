@@ -3,17 +3,22 @@
     <h1>Christmas Sing-Along Songbook</h1>
     <h2>by Lucas Furseth</h2>
 
-    <h2>Click On Santa to Download</h2>
-    <!-- <embed src="book.pdf"/> -->
+    <h2 id="download">Click On <b>Santa</b> to Download</h2>
 
 </div>
 
 
 <style>
 
-    embed {
-        width: 100%;
-        height: 100vh;
+    #download {
+        /* font-weight: bold; */
+        font-family: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif; 
+        /* font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bo    Ald', Calibri, source-sans-pro, sans-serif;  */
+        /* font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;  */
+        /* font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;  */
+        /* font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;  */
+        /* font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;  */
+        /* font-family: Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif; */
     }
 
     div {
