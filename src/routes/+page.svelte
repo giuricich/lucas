@@ -6,7 +6,7 @@
   <h1>Christmas Sing-Along Songbook</h1>
   <h2>by Lucas Furseth</h2>
 
-  <h2 id="download">Click On <b>Santa</b> to Download</h2>
+  <h2 id="download">Click On <b>Santa</b> to View</h2>
   <a id="santa" href="book.pdf"></a>
 </div>
 
